@@ -14,3 +14,5 @@
 |01| <a href="https://github.com/augustobecker/get_next_line">get_next_line </a>| C | `File descriptor` `Static variables`| XP| 104% :white_check_mark: |
 |01| <a href="https://github.com/augustobecker/ft_printf"> ft_printf </a> | C | `Variadic arguments` `Library` `Makefile`|  XP | 50% |
 |01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `Debian` `Server setup` `Virtual Machine` `SSH` | XP    |0%| |
+|✨  ||||||
+|02| <a href="https://github.com/augustobecker/SoLong">SoLong</a>| C | | XP    |0%| |
