@@ -20,3 +20,13 @@
 |01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `sysadmin` `Debian` `Server setup` `Virtual Machine` `SSH` | 577 XP    |0%| |
 |✨  ||||||
 |02| <a href="https://github.com/augustobecker/SoLong">SoLong</a>| C | |  1000 XP    |0%| |
+|02| Pipex | C | |  1142 XP    |0%| |
+|02| push_swap | C | |  1855 XP    |0%| |
+|✨  ||||||
+|03| Minishell| C | | 2814 XP    |0%| |
+|03| Philosophers | C | |  3360 XP    |0%| |
+|✨  ||||||
+|04| NetPractice|  | |  3160 XP    |0%| |
+|04| cub3d| C | |  5775 XP    |0%| |
+|04| <a href="https://github.com/augustobecker/CPP">CPP</A> | C++ | |  XP    |0%| |
+|✨  ||||||
