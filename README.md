@@ -28,5 +28,5 @@
 |✨  ||||||
 |04| NetPractice|  | |  3160 XP    |0%| |
 |04| cub3d| C | |  5775 XP    |0%| |
-|04| <a href="https://github.com/augustobecker/CPP">CPP</A> | C++ | |  XP    |0%| |
+|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | |  XP    |0%| |
 |✨  ||||||
