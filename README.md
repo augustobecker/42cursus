@@ -30,3 +30,11 @@
 |04| cub3d| C | |  5775 XP    |0%| |
 |04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | |  XP    |0%| |
 |✨  ||||||
+
+<h3 align="center"> Testers </h3>
+
+:small_blue_diamond: <a href="https://github.com/augustobecker/SoLongTester">SoLong Tester</a>
+
+<h3 align="center"> Some Helpful Scripts </h3>
+
+:small_blue_diamond: <a href="https://github.com/augustobecker/Scripts_for_42">Scripts_for_42</a>
