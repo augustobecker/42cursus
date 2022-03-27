@@ -20,7 +20,7 @@
 |01| <a href="https://github.com/augustobecker/ft_printf"> ft_printf </a> | C | `Variadic arguments` `Library` `Makefile`|  882 XP | 100% ✅ |
 |01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `sysadmin` `Debian` `Server setup` `Virtual Machine` `SSH` | 577 XP    |0%| |
 |✨  ||||||
-|02| <a href="https://github.com/augustobecker/SoLong">SoLong</a>| C | |  1000 XP    |0%| |
+|02| <a href="https://github.com/augustobecker/SoLong">so_long</a>| C | |  1000 XP    |0%| |
 |02| Pipex | C | |  1142 XP    |0%| |
 |02| push_swap | C | |  1855 XP    |0%| |
 |✨  ||||||
@@ -34,7 +34,7 @@
 
 <h3 align="center"> Testers </h3>
 
-:small_blue_diamond: <a href="https://github.com/augustobecker/SoLongTester">SoLong Tester</a>
+:small_blue_diamond: <a href="https://github.com/augustobecker/SoLongTester">so_long_tester</a>
 
 <h3 align="center"> Some Helpful Scripts </h3>
 
