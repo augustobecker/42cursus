@@ -20,10 +20,10 @@
 |✨  ||||||
 |01| <a href="https://github.com/augustobecker/get_next_line">get_next_line </a>| C | `File descriptor` `Static variables`| 882 XP| 104% ✅ |
 |01| <a href="https://github.com/augustobecker/ft_printf"> ft_printf </a> | C | `Variadic arguments` `Library` `Makefile`|  882 XP | 100% ✅ |
-|01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `sysadmin` `Debian` `Server setup` `Virtual Machine` `SSH` | 577 XP    |110% ✅| |
+|01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `sysadmin` `Debian` `Server setup` `Virtual Machine` `SSH` `Unix` | 577 XP    |110% ✅| |
 |✨  ||||||
 |02| <a href="https://github.com/augustobecker/SoLong">so_long</a>| C | `Structs` `Tiles` `Sprites` `Textures` `Documentation`  `MiniLibx Graphics Library` |  1000 XP    |123% ✅| |
-|02| Pipex | C | |  1142 XP    |0%| |
+|02| <a href="https://github.com/augustobecker/Pipex"> Pipex | C |  `Processes` `Shell Redirection`  `Pipe` `Unix` |  1142 XP    |0%| |
 |02| push_swap | C | |  1855 XP    |0%| |
 |✨  ||||||
 |03| Minishell| C | | 2814 XP    |0%| |
