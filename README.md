@@ -8,7 +8,7 @@
     <a href="https://github.com/augustobecker/ft_printf" target="_blank"><img align="center" alt="ft_printf" src="https://user-images.githubusercontent.com/81205527/157133425-69e61e0d-9051-4733-87cb-844319544a8b.png">  </a>
     <a href="https://github.com/augustobecker/Born2beRoot" target="_blank"><img align="center" alt="Born2beRoot" src="https://user-images.githubusercontent.com/81205527/172609635-7e885150-0014-4f7b-815d-45ab7bfc2b47.png"> </a>
     <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png"> </a>
-    <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png"> </a>
+    <a href="https://github.com/augustobecker/pipex" target="_blank"><img align="center" alt="pipex" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png"> </a>
   
 </br>:bookmark:intra login: **acesar-l**
 </div>
