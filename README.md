@@ -23,9 +23,9 @@
 |01| <a href="https://github.com/augustobecker/ft_printf"> ft_printf </a> | C | `Variadic arguments` `Library` `Makefile`|  882 XP | 100% ✅ |
 |01| <a href="https://github.com/augustobecker/Born2beRoot">Born2beRoot</a>| Shell | `sysadmin` `Debian` `Server setup` `Virtual Machine` `SSH` `Unix` | 577 XP    |110% ✅| |
 |✨  ||||||
-|02| <a href="https://github.com/augustobecker/SoLong">so_long</a>| C | `Structs` `Tiles` `Sprites` `Textures` `Documentation`  `MiniLibx Graphics Library` |  1000 XP    |123% ✅| |
+|02| <a href="https://github.com/augustobecker/SoLong">so_long</a>| C | `Structs` `Memory Leaks` `Tiles` `Sprites` `Textures` `Documentation`  `MiniLibx Graphics Library` |  1000 XP    |123% ✅| |
 |02| <a href="https://github.com/augustobecker/pipex"> pipex | C |  `Processes` `Shell Redirection`  `Pipe` `Unix` |  1142 XP    |115% ✅| |
-|02| push_swap | C | |  1855 XP    |0%| |
+|02| push_swap | C | `Sorting Alghoritms` `Performance` `Stack` |  1855 XP    |0%| |
 |✨  ||||||
 |03| Minishell| C | | 2814 XP    |0%| |
 |03| Philosophers | C | |  3360 XP    |0%| |
