@@ -38,6 +38,7 @@
 <h3 align="center"> Testers </h3>
 
 :small_blue_diamond: <a href="https://github.com/augustobecker/SoLongTester">so_long_tester</a>
+:small_blue_diamond: <a href="https://github.com/augustobecker/push_swap_tester">push_swap_tester</a>
 
 <h3 align="center"> Some Helpful Scripts </h3>
 
