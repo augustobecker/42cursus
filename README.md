@@ -25,9 +25,9 @@
 |✨  ||||||
 |02| <a href="https://github.com/augustobecker/SoLong">so_long</a>| C | `Structs` `Memory Leaks` `Tiles` `Sprites` `Textures` `Documentation`  `MiniLibx Graphics Library` |  1000 XP    |123% ✅| |
 |02| <a href="https://github.com/augustobecker/pipex"> pipex</a> | C |  `Processes` `Shell Redirection`  `Pipe` `Unix` |  1142 XP    |115% ✅| |
-|02| <a href="https://github.com/augustobecker/push_swap"> push_swap</a> | C | `Sorting Alghoritms` `Performance` `Stack` `Doubly Linked List` |  1855 XP    |0%| |
+|02| <a href="https://github.com/augustobecker/push_swap"> push_swap</a> | C | `Sorting Alghoritms` `Performance` `Stack` `Doubly Linked List` |  1855 XP    | 84% ✅| |
 |✨  ||||||
-|03| Minishell| C | | 2814 XP    |0%| |
+|03| <a href="https://github.com/augustobecker/minishell">Minishell</a>| C | `Processes` `Shell Redirection`  `Pipe` `Unix` | 2814 XP    |0%| |
 |03| Philosophers | C | |  3360 XP    |0%| |
 |✨  ||||||
 |04| NetPractice|  | |  3160 XP    |0%| |
