@@ -10,7 +10,8 @@
     <a href="https://github.com/augustobecker/so_long" target="_blank"><img align="center" alt="so_long" src="https://user-images.githubusercontent.com/81205527/179134510-48689e9e-f8e4-4165-be40-2e0ec8f5d60d.png"> </a>
     <a href="https://github.com/augustobecker/pipex" target="_blank"><img align="center" alt="pipex" src="https://user-images.githubusercontent.com/81205527/185808394-0045a614-600a-443d-add8-736951453ce3.png"> </a>
 <a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"></a>
-  
+ <a href="https://github.com/augustobecker/Minishell" target="_blank"><img align="center" alt="minishell" src="https://user-images.githubusercontent.com/81205527/206884965-cfe1b09f-0c6c-4a9d-b252-a9fffb78dfef.png">
+ 
 </br>:bookmark:intra login: **acesar-l**
 </div>
 
@@ -28,8 +29,8 @@
 |02| <a href="https://github.com/augustobecker/pipex"> pipex</a> | C |  `Processes` `Shell Redirection`  `Pipe` `Unix` |  1142 XP    |115% ✅| |
 |02| <a href="https://github.com/augustobecker/push_swap"> push_swap</a> | C | `Sorting Alghoritms` `Performance` `Stack` `Doubly Linked List` |  1855 XP    | 84% ✅| |
 |✨  ||||||
-|03| <a href="https://github.com/augustobecker/minishell">Minishell</a>| C | `Processes` `Shell Redirection`  `Pipe` `Unix` | 2814 XP    |0%| |
-|03| Philosophers | C | |  3360 XP    |0%| |
+|03| <a href="https://github.com/augustobecker/minishell">Minishell</a>| C | `Processes` `Shell Redirection` `Pipe` `Signals` `Unix` `Parsing` | 2814 XP    |100% ✅| |
+|03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Processes` |  3360 XP    |0%| |
 |✨  ||||||
 |04| NetPractice|  | |  3160 XP    |0%| |
 |04| cub3d| C | |  5775 XP    |0%| |
