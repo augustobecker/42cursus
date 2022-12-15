@@ -30,7 +30,7 @@
 |02| <a href="https://github.com/augustobecker/push_swap"> push_swap</a> | C | `Sorting Alghoritms` `Performance` `Stack` `Doubly Linked List` |  1855 XP    | 84% ✅| |
 |✨  ||||||
 |03| <a href="https://github.com/augustobecker/minishell">Minishell</a>| C | `Processes` `Shell Redirection` `Pipe` `Signals` `Unix` `Parsing` | 2814 XP    |100% ✅| |
-|03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Processes` |  3360 XP    |0%| |
+|03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Parallelism` |  3360 XP    |0%| |
 |✨  ||||||
 |04| NetPractice|  | |  3160 XP    |0%| |
 |04| cub3d| C | |  5775 XP    |0%| |
