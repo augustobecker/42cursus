@@ -12,6 +12,8 @@
 <a href="https://github.com/augustobecker/push_swap" target="_blank"><img align="center" alt="push_swap" src="https://user-images.githubusercontent.com/81205527/191116700-f59a18fd-e7f5-4c76-8f41-74a68d1ba32b.png"></a>
  <a href="https://github.com/augustobecker/Minishell" target="_blank"><img align="center" alt="minishell" src="https://user-images.githubusercontent.com/81205527/206884965-cfe1b09f-0c6c-4a9d-b252-a9fffb78dfef.png"></a>
    <a href="https://github.com/augustobecker/Philosophers" target="_blank"><img align="center" alt="Philosophers" src="https://user-images.githubusercontent.com/81205527/210457725-477080a7-1a97-4968-9621-35c3e747c22b.png"> </a>
+    <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="NetPractice" src="https://user-images.githubusercontent.com/81205527/213839641-716b2231-992b-4dcb-aab7-90ec844fa1d3.png"> </a>
+
  
 </br>:bookmark:intra login: **acesar-l**
 </div>
@@ -33,7 +35,7 @@
 |03| <a href="https://github.com/augustobecker/minishell">Minishell</a>| C | `Processes` `Shell Redirection` `Pipe` `Signals` `Unix` `Parsing` | 2814 XP    |100% ✅| |
 |03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Parallelism` `Multithreading` `Multiprocessing` |  3360 XP    |121% ✅| |
 |✨  ||||||
-|04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |0%| |
+|04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |100% ✅| |
 |04| cub3d| C | |  5775 XP    |0%| |
 |04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | |  XP    |0%| |
 |✨  ||||||
