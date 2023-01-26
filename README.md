@@ -36,7 +36,7 @@
 |03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Parallelism` `Multithreading` `Multiprocessing` |  3360 XP    |121% ✅| |
 |✨  ||||||
 |04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |100% ✅| |
-|04| cub3d| C | |  5775 XP    |0%| |
+|04| <a href="https://github.com/augustobecker/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library`  |  5775 XP    |0%| |
 |04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | |  XP    |0%| |
 |✨  ||||||
 
