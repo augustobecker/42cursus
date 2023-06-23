@@ -13,6 +13,7 @@
  <a href="https://github.com/augustobecker/Minishell" target="_blank"><img align="center" alt="minishell" src="https://user-images.githubusercontent.com/81205527/206884965-cfe1b09f-0c6c-4a9d-b252-a9fffb78dfef.png"></a>
    <a href="https://github.com/augustobecker/Philosophers" target="_blank"><img align="center" alt="Philosophers" src="https://user-images.githubusercontent.com/81205527/210457725-477080a7-1a97-4968-9621-35c3e747c22b.png"> </a>
     <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="NetPractice" src="https://user-images.githubusercontent.com/81205527/213839641-716b2231-992b-4dcb-aab7-90ec844fa1d3.png"> </a>
+     <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="cub3D" src="https://github.com/augustobecker/augustobecker/assets/81205527/e806c5ec-8dde-48d8-9ef3-4ea491a30ce7"> </a>
 
  
 </br>:bookmark:intra login: **acesar-l**
@@ -36,8 +37,8 @@
 |03| <a href="https://github.com/augustobecker/Philosophers">Philosophers</a> | C | `Threads`  `Mutexes` `Semaphores` `Parallelism` `Multithreading` `Multiprocessing` |  3360 XP    |121% ✅| |
 |✨  ||||||
 |04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |100% ✅| |
-|04| <a href="https://github.com/augustobecker/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library`  |  5775 XP    |0%| |
-|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | |  XP    |0%| |
+|04| <a href="https://github.com/augustobecker/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library` `Documentation` |  5775 XP    |101% ✅| |
+|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | `Object Oriented Programming` |  XP    |0%| |
 |✨  ||||||
 
 <h3 align="center"> Testers </h3>
