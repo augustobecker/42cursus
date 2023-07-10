@@ -38,7 +38,7 @@
 |✨  ||||||
 |04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |100% ✅| |
 |04| <a href="https://github.com/augustobecker/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library` `Documentation` |  5775 XP    |101% ✅| |
-|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | `Object Oriented Programming` |  XP    |0%| |
+|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | `Object Oriented Programming` |  10042 XP    |0%| |
 |✨  ||||||
 
 <h3 align="center"> Testers </h3>
