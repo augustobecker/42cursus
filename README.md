@@ -49,6 +49,10 @@
 
 :small_blue_diamond: <a href="https://github.com/augustobecker/42Labs">42sp Labs 4th Edition</a>
 
+<h3 align="center"> Dojos </h3>
+
+:small_blue_diamond: <a href="https://github.com/augustobecker/dojos/tree/main/Banco%20de%20Dados%20AWS%20DynamoDB%20e%20Docker">Dojo de Banco de dados AWS DynamoDB e Docker</a>
+
 <h2  align="center">Author</h2>
 <div align="center">
 	<div>
