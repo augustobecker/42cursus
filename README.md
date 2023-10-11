@@ -13,7 +13,8 @@
  <a href="https://github.com/augustobecker/Minishell" target="_blank"><img align="center" alt="minishell" src="https://user-images.githubusercontent.com/81205527/206884965-cfe1b09f-0c6c-4a9d-b252-a9fffb78dfef.png"></a>
    <a href="https://github.com/augustobecker/Philosophers" target="_blank"><img align="center" alt="Philosophers" src="https://user-images.githubusercontent.com/81205527/210457725-477080a7-1a97-4968-9621-35c3e747c22b.png"> </a>
     <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="NetPractice" src="https://user-images.githubusercontent.com/81205527/213839641-716b2231-992b-4dcb-aab7-90ec844fa1d3.png"> </a>
-     <a href="https://github.com/augustobecker/NetPractice" target="_blank"><img align="center" alt="cub3D" src="https://github.com/augustobecker/augustobecker/assets/81205527/e806c5ec-8dde-48d8-9ef3-4ea491a30ce7"> </a>
+     <a href="https://github.com/augustobecker/cub3D" target="_blank"><img align="center" alt="cub3D" src="https://github.com/augustobecker/augustobecker/assets/81205527/e806c5ec-8dde-48d8-9ef3-4ea491a30ce7"> </a>
+     <a href="https://github.com/augustobecker/CPP" target="_blank"><img align="center" alt="CPP" src="https://github.com/augustobecker/augustobecker/assets/81205527/4ed9a296-a963-4002-8a0a-3a9c3b12c1fc"> </a>
 
  
 </br>:bookmark:intra login: **acesar-l**
@@ -38,7 +39,7 @@
 |✨  ||||||
 |04| <a href="https://github.com/augustobecker/NetPractice"> NetPractice| | `Networks` `TCP/IP Protocol` `Subnet Masks` `Network Routers`|  3160 XP    |100% ✅| |
 |04| <a href="https://github.com/augustobecker/cub3d"> cub3d| C | `Ray Casting` `MiniLibx Graphics Library` `Documentation` |  5775 XP    |101% ✅| |
-|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | `Object Oriented Programming` |  10042 XP    |0%| |
+|04| <a href="https://github.com/augustobecker/CPP">CPP</a> | C++ | `Object Oriented Programming` |  10042 XP    |✅| |
 |✨  ||||||
 
 <h3 align="center"> Testers </h3>
